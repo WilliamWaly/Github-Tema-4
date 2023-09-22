@@ -23,3 +23,4 @@ listen=[random.randint(1, 20),random.randint(1, 20),random.randint(1, 20),
         random.randint(1, 20),random.randint(1, 20),random.randint(1, 20)]
 
 finn_forskjell(listen)
+
