@@ -48,7 +48,7 @@ def tolk_vaerdata(filnavn):
         return vaerdata
         
 
-værdata=tolk_vaerdata("snoedybder_vaer_en_stasjon_dogntest.csv")
+værdata=tolk_vaerdata("snoedybder_vaer_en_stasjon_dogn.csv")
 
 
 
